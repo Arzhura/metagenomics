@@ -4,7 +4,4 @@ In this study we are working with Aplysina aerophoba. This is the perfect model 
 #
 
 ## Pipeline of analysis 
-In this repsoitory I deploy different methods to analyse the dataset from my PhD project.  
-
-Intro sentence
-Remove the line to make it meaningful with a true sentence.
+In this repsoitory I deploy different methods to analyse the dataset from my PhD project. The pipeline aims to describe the alpha diversity within the sponge.
