@@ -1,5 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+#author: Clara Emery
+#email: cla.emry@gmail.com 
+#last update: August 12th, 2021
 import csv, sys, re
 def read_file(filename, sep ):
     with open(filename, "r") as load_file:

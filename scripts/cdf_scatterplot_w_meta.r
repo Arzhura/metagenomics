@@ -1,3 +1,6 @@
+#author: Clara Emery
+#email: cla.emry@gmail.com 
+#last update: August 12th, 2021
 setwd("~/Documents/pipeline_PlasTools/clean_zone/")
 library(ggplot2)
 library("report")
