@@ -1,0 +1,3 @@
+[submodule "sudmodule"]
+	path = sudmodule
+	url = https://github.com/kbseah/genome-bin-tools.git
